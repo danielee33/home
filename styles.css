@@ -1,0 +1,14 @@
+
+
+footer {
+  margin-top: 10px;
+  color: black;
+  background: skyblue;
+  border: solid;
+  border-color: skyblue;
+}
+
+.foot {
+  text-align: center;
+  font-size: 75%;
+}
