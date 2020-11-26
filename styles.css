@@ -12,6 +12,23 @@ h2 {
   font-size: 250%;
 }
 
+#buttons {
+  text-align: center;
+  font-size: 120%;
+}
+
+#form {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.btn {
+  border-style: solid;
+  border-radius: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .foot {
   text-align: center;
   font-size: 75%;
