@@ -1,6 +1,8 @@
+body {
+  margin: 0;
+}
 
 footer {
-  margin-top: 10px;
   color: black;
   background: skyblue;
   padding: 5px;
@@ -18,8 +20,13 @@ h2 {
 }
 
 #form {
-  margin-top: 30px;
+  margin-top: 50px;
   text-align: center;
+  padding-bottom: 15px;
+}
+
+#contact {
+  background-color: grey;
 }
 
 .btn {
