@@ -14,7 +14,7 @@ header {
 }
 
 ul {
-  background-color: orange;
+  background-color: white;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -26,27 +26,25 @@ li {
 }
 
 li a {
-  display: block;
-  background-color: orange;
   color: #000000;
   padding: 8px;
-  text-decoration: none;
   text-align: center;
-  font-weight: bold;
 }
 
 ul a {
   display: inline-block;
-  background-color: orange;
+  background-color: white;
   color: #000000;
   padding: 8px;
   text-decoration: none;
   text-align: left;
   font-weight: bold;
+  font-family: 'Signika', sans-serif;
+  font-weight: 600;
 }
 
 ul a:hover {
-  background-color: #CD853F;
+  background-color: black;
   color: white;
 }
 
@@ -77,6 +75,7 @@ h3 {
 
 p {
   font-family: 'Signika', sans-serif;
+  font-weight: 600;
 }
 
 img {
