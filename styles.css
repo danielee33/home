@@ -16,6 +16,12 @@ h2 {
 
 h3 {
   padding-left: 30px;
+  font-family: 'Signika', sans-serif;
+  font-size: 150%;
+}
+
+p {
+  font-family: 'Signika', sans-serif;
 }
 
 img {
@@ -77,4 +83,5 @@ iframe {
 
 .hashtag {
   padding-left: 30px;
+  padding-right: 30px;
 }
