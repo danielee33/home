@@ -1,11 +1,15 @@
 
-
 footer {
   margin-top: 10px;
   color: black;
   background: skyblue;
-  border: solid;
-  border-color: skyblue;
+  padding: 5px;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Caveat Brush', cursive;
+  font-size: 250%;
 }
 
 .foot {
